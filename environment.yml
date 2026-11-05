@@ -113,6 +113,8 @@ dependencies:
   - packaging=26.3
   - pcre2=10.46
   - pip=26.2.1
+  - pip:
+      - pygame-ce
   - pkce=1.0.3
   - platformdirs=4.12.3
   - pluggy=1.6.0
